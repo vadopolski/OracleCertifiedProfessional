@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+Collections/Collections.iml
+Collections/src/main/resources/
+Collections/src/test/
+Collections/target/
+Concurrency/Concurrency.iml
+Concurrency/src/main/java/ForkJoinFramework/RecursiveTask/
+Concurrency/src/main/resources/
+Concurrency/src/test/
+Concurrency/target/
+OracleCertifiedProfessional.iml
