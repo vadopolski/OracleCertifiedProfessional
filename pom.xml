@@ -12,6 +12,8 @@
         <module>Concurrency</module>
         <module>Collections</module>
         <module>AdvancedClassDesign</module>
+        <module>Generics</module>
+        <module>ch-9-nio2</module>
     </modules>
 
 
